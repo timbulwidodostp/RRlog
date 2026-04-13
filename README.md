@@ -1,6 +1,8 @@
 # RRlog
 Logistic regression for randomized response data Use RRlog (RRreg) With (In) R Software
 
+https://www.youtube.com/watch?v=kiZro05TjGM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
